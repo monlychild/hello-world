@@ -1,7 +1,7 @@
 # hello-world
 Who am I?
 
-I work in corporate finance - corporate finance modelling. Corporate financial modelling is my passion.
+I am more into finance and economics than into coding. Corporate financial modelling is my job and passion at the same time.
 
 I look forward to create python-based environement for corporate finance modelling.
 
